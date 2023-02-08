@@ -1,2 +1,1 @@
-# toy_ds_project
-DSCI 100 Exercise
+project creation date: Feb 7 2023
